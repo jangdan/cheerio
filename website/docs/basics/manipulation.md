@@ -14,7 +14,7 @@ remove elements, Cheerio provides a range of methods to help you do so.
 In this guide, we will focus specifically on manipulating elements within a
 document using Cheerio. We will cover methods for modifying element attributes
 and properties, adding and removing classes, modifying text and HTML content,
-inserting and removing elements, and handling errors and debugging. By the end
+and inserting and removing elements. By the end
 of this guide, you will have a good understanding of how to use these methods to
 manipulate elements within a document using Cheerio.
 
@@ -257,5 +257,5 @@ $('li').empty();
 
 We learned how to manipulate elements within a document using Cheerio. We can
 modify element attributes and properties, add and remove classes, modify text
-and HTML content, insert and remove elements, and handle errors and debug our
-code. With these tools, you can easily manipulate a document to suit your needs.
+and HTML content, and insert and remove elements.
+With these tools, you can easily manipulate a document to suit your needs.
